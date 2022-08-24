@@ -1,1 +1,5 @@
-1345678
+
+
+function clickAlert(){
+    alert("Hello");
+}
